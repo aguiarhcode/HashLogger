@@ -1,0 +1,2 @@
+# HashLogger
+NodeJs Hash Logger
